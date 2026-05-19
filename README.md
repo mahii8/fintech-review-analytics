@@ -16,7 +16,7 @@ A rigorous analytics pipeline that transforms raw Google Play Store reviews for 
 ## How to Reproduce
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/fintech-review-analytics.git
+   git clone https://github.com/mahii8/fintech-review-analytics.git
 
 2. Create and activate virtual environment:
    python -m venv venv
@@ -29,5 +29,5 @@ A rigorous analytics pipeline that transforms raw Google Play Store reviews for 
 Raw data is excluded from version control (.gitignore). Reviews are scraped from Google Play Store using google-play-scraper.
 
 ## Author
-Bamla | 10 Academy x Kifiya | Week 2 | May 2026
+Mahlet Adane | 10 Academy x Kifiya | Week 2 | May 2026
 ## Task 1: Data Collection in progress
