@@ -30,3 +30,4 @@ Raw data is excluded from version control (.gitignore). Reviews are scraped from
 
 ## Author
 Bamla | 10 Academy x Kifiya | Week 2 | May 2026
+## Task 1: Data Collection in progress
